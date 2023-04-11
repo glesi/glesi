@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola, soy Glesi Mayandy Galdamez! 👋
 
-<!--
-**glesi/glesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy una entusiasta programadora junior con una gran pasión por aprender y mejorar mis habilidades. Me encuentro trabajando con tecnologías como Java EE, MySQL, PostgreSQL, HTML5, CSS3, JavaScript y NodeJS. Me formo de manera autodidacta a través de plataformas como Platzi y Udemy, lo que me permite adquirir conocimientos sólidos y estar siempre actualizada en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- Java EE
+- MySQL
+- PostgreSQL
+- HTML5
+- CSS3
+- JavaScript
+- NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aprendiendo actualmente
+Estoy constantemente buscando nuevas tecnologías y frameworks para expandir mi conjunto de habilidades. Actualmente, estoy interesada en aprender más sobre:
+
+- React
+- Angular
+- MongoDB
+- Docker
+
+## 📫 Contáctame
+No dudes en ponerse en contacto conmigo si tienes alguna pregunta, oportunidad laboral o simplemente quieres conversar sobre tecnología y desarrollo web. Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/glesi-mayandy-galdamez-ramos-634324254/)
+- [Correo electrónico](mailto:glesi.mayandy@gmail.com)
+
+
